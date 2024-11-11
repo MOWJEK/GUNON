@@ -1,14 +1,18 @@
-
-
-sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
-wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"
-sudo rm -rf /usr/local/go
-cd $HOME
-rm -rf celestia-app
-git clone https://github.com/celestiaorg/celestia-app.git
-cd celestia-app
-jfljhfdfdsg
-gfgj'd
-git clone https://github.com/celestiaorg/networks
-
-
+GUN
+mkdir GUN
+cd GUN
+git init
+echo "# GUN Project" > README.md
+echo "## Introduction" >> README.md
+echo "This is the GUN project repository. It contains all relevant files and documentation." >> README.md
+echo "## Installation" >> README.md
+echo "Steps to install and configure the GUN project." >> README.md
+echo "## Usage" >> README.md
+echo "Instructions on how to use the GUN project." >> README.md
+git add README.md
+git commit -m "Initial commit for GUN project"
+git branch -M main
+git remote add origin https://github.com/mowjek/GUNON.git
+git remote -v
+git push -u origin main
+cd ..
