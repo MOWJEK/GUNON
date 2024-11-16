@@ -6,7 +6,7 @@ echo "# GUN Project" > README.md
 echo "## Introduction" >> README.md
 echo "This is the GUN project repository. It contains all relevant files and documentation." >> README.md
 echo "## Installation" >> README.md
-echo "Steps to install and configure the GUN project." >> README.md
+echo "Steps to install and configure the GUN project." >> READMmd
 echo "## Usage" >> README.md
 echo "Instructions on how to use the GUN project." >> README.md
 git add README.md
