@@ -1,20 +1,39 @@
 GUN
+
 mkdir GUN
+
 cd GUN
+
 git init
+
 echo "# GUN Project" > README.md
+
 echo "## Introduction" >> README.md
+
 echo "This is the GUN project repository.md
+
 It contains all relevant files and documentation." >> README.md
+
 echo "## Installation" >> README.md
+
 echo "Steps to install and configure the GUN project." >> README.md
+
 echo "## Usage" >> README.md
+
 echo "Instructions on how to use the GUN project." >> README.md
+
 git add README.md
+
 git commit-m "Initial commit for GUN project"
+
 git branch-M main
+
 git remote add origin https://github.com/mowjek/GUNON.git
+
 git remote-v
+
 git push -u origin main
+
 cd ............
+
 echo "## Usage" >> README.md
